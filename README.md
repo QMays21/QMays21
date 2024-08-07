@@ -1,6 +1,6 @@
 <h1>Hi, I'm Quiara! <br/><a href="https://github.com/QMays21">Data Engineering Professional</a>, <a href="https://www.linkedin.com/in/quiara-m-70923b180/">Lead Data Analyst</a></h1>
 
-<h2>👩‍💻Data Engineering Projects:</h2>
+<h2>👩‍💻Power Bi Projects:</h2>
 
 - <b>Employee Referral Program Dashboard </b>
   - (https://github.com/qmays21/Employee-Referral-Dashboard)
